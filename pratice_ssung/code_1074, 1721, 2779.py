@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 16 17:05:52 2020
-
-@author: a0105
-"""
 # 1074
 n = int(input())
 
