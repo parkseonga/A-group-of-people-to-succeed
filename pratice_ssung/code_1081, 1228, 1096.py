@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 18 11:40:11 2020
-
-@author: a0105
-"""
-
 # 1081
 x, y = map(int, input().split())
 
@@ -33,7 +26,7 @@ elif biman_test>10 and biman_test<=20:
 elif biman_test>20:
     print('비만')
       
-# 1096    
+# 1096: 아직 해결 못함. 
 array = [[0]*19]*19
 array[[2]][2] = 1
 array.index(2,2)
